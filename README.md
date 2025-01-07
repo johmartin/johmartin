@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+[Github markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
